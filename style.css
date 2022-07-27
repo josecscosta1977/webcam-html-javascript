@@ -1,0 +1,11 @@
+#conteudo {
+	margin: 0px auto;
+	width: 500px;
+	height: 375px;
+	border: 10px solid rgb(2, 24, 99);
+}
+#video {
+	width: 500px;
+	height: 375px;
+	background-color: rgb(175, 175, 175);
+}
